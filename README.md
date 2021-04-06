@@ -24,6 +24,6 @@
  - Board of SSC
  - Andhra pradesh,India
 
-###SKILLS
+### SKILLS
 - C Programming -90%
 - Phyton 
